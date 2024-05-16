@@ -4,7 +4,7 @@
 
 OceanBase community ecological partners are part of the [OceanBase Partner Network](https://www.oceanbase.com/partner). According to the type of partners, they can be divided into solution partners and product ecological partners.
 
-### Solution Partners
+## Solution Partners
 
 OceanBase community solution partners refer to ecological partners whose joint solutions with OceanBase CE have passed the compatibility certification. You can view the complete list of solution partners by visiting our website at https://www.oceanbase.com/partner/solution.
 
@@ -16,7 +16,9 @@ The certification process for OceanBase community solution partners is as follow
 4. After passing the review by the OceanBase team, we can go on the certificate electronic signature process.
 5. After the signing workflow is completed, we will give you the certificate and update you to our web page.
 
-### Product Ecological Partners
+## Product Ecological Partners
+
+OceanBase community product ecological partners refer to the ecological partners of OceanBase Community Edition in the database business, which mainly include database tools, database middleware, and infrastructure such as chips and operating systems.
 
 The files related to OceanBase community product ecological partners are stored in the current directory, mainly involving the following parts:
 
@@ -41,3 +43,7 @@ To add a new partner, you need provide the information as follows:
       - title: Required, reference link title.
         url: Required, reference link url.
 ```
+
+## License
+
+This repository is under the Apache License, Version 2.0, except for projects and products logos, which are generally copyrighted by the company or organization that created them, and are simply cached here for reliability. 

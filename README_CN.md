@@ -4,11 +4,11 @@
 
 OceanBase 社区生态伙伴是 [OceanBase 合作伙伴计划](https://www.oceanbase.com/partner)的一部分，按照伙伴的类型可以分为社区解决方案伙伴和社区产业生态伙伴。
 
-### 社区解决方案伙伴
+## 社区解决方案伙伴
 
 OceanBase 社区解决方案伙伴指的是所提供的与 OceanBase 社区版的联合解决方案通过了社区版兼容认证的生态伙伴。您可以访问我们的网站查看完整的伙伴列表 https://www.oceanbase.com/partner/solution 。
 
-OceanBase社区解决方案合作伙伴认证流程如下：
+OceanBase 社区解决方案合作伙伴认证流程如下：
 
 1. 填补[《测试报告模版》](solution/OceanBase数据库社区版&XXXX联合解决方案测试报告.docx)中的红色部分。
 2. 在 [Who is using OceanBase](https://github.com/oceanbase/oceanbase/issues/1301) 中进行回复（中英文均可）。
@@ -16,9 +16,12 @@ OceanBase社区解决方案合作伙伴认证流程如下：
 4. OceanBase 团队相关人员审核通过后，进行认证证书的电子签章流程。
 5. 签章流程结束后，我们会给您认证证书，并将您更新到我们的网站。
 
-### 社区产业生态伙伴
+## 社区产业生态伙伴
+
+OceanBase 社区产业生态伙伴指的是 OceanBase 社区版在数据库业务内的生态伙伴，主要包括数据库工具、数据库中间件，以及芯片、操作系统等基础设施。
 
 OceanBase 社区产业生态伙伴的信息目前全部存放在当前目录下，主要涉及以下几部分
+
 - `partners.yml`: [产业生态伙伴列表](https://www.oceanbase.com/partner/product-ecology)中的社区生态伙伴信息，如您想对其进行更新，请直接创建一个修改本文件的 pull request。
 - `landscape.yml`: [产业生态伙伴全景图](https://www.oceanbase.com/partner#ecology)中展示的社区产业生态伙伴列表，如您想对其进行更新，请先将其加入到 `partners.yml`，之后再创建 issue 进行申请，并在正文中附上对应的 400*128 像素的 logo 图片。
 - `logo`: logo 图片存放目录，在您更新 landscape 的申请通过后，将由 OceanBase 团队的人员替您更新图片到该目录。
@@ -39,3 +42,7 @@ OceanBase 社区产业生态伙伴的信息目前全部存放在当前目录下�
       - title: 必填，链接的标题。
         url: 必填，链接的 url。
 ```
+
+## 开源协议
+
+本仓库中的产品信息和图标文件版权归属于创建它们的公司或组织，在此缓存只是为了提高展示网页的可靠性。仓库中的其他内容遵循 Apache 2.0 协议。
