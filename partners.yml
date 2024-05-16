@@ -648,3 +648,16 @@ partners:
     references:
       - title: 'Deploy ob-operator using terraform'
         url: 'https://github.com/oceanbase/ob-operator?tab=readme-ov-file#using-terraform'
+  - id: 深圳迪聚海思科技有限公司
+    name: 深圳迪聚海思科技有限公司
+    logo: logo/digi-aims.jpg
+    website: 'https://www.digihealth.net/'
+    description: 深圳迪聚海思科技有限公司（迪聚海思）是一家具有领先技术的致力于为临床医疗提供数字化解决方案的医疗信息化企业。
+    compatibility:
+      - partner: 迪聚海思手术麻醉信息系统 V2.0
+        ob: OceanBase社区版V4
+        category: 医疗
+        subcategory: 医疗
+    references:
+      - title: '迪聚海思手术麻醉临床信息系统'
+        url: 'https://www.digihealth.net/'
